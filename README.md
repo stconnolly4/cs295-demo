@@ -4,4 +4,4 @@
 
 This is a *italic* thing
 
-Here is a [link] (https://github.com/stconnolly4/cs295-demo) to my project
+Here is a [link](https://github.com/stconnolly4/cs295-demo) to my project
